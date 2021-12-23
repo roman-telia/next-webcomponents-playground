@@ -1,0 +1,22 @@
+{
+  "name": "nextjs-template",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@teliads/components": "/Users/nxg3501/Desktop/development/DesignSystem/design-system/build/tds-components/teliads-components-v14.6.1.tgz",
+    "next": "12.0.7",
+    "next-transpile-modules": "^9.0.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
+  },
+  "devDependencies": {
+    "eslint": "8.5.0",
+    "eslint-config-next": "11.1.2"
+  }
+}
